@@ -1,0 +1,16 @@
+.logo{
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    top: 15px;
+    font-size: 1.7em;
+    padding-left: 1em;
+    transition: all .2s ease-in-out;
+    color: white;
+
+}
+.logo:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    color: #a9bef5;
+    text-shadow: 3px 3px 5px #373737;
+}

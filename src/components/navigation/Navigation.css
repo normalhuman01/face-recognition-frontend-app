@@ -1,0 +1,12 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.signOut{
+    font-size: 1.3em;
+    padding-right: 2em;
+}
+p:hover{
+    cursor: pointer;
+}
